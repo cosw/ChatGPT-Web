@@ -17,7 +17,7 @@ export function defaultSetting(): UserState {
     userInfo: {
       avatar: 'https://raw.githubusercontent.com/Chanzhaoyu/chatgpt-web/main/src/assets/avatar.jpg',
       name: 'ChenJinLong',
-      description: '弄来给大家玩玩',
+      description: '<span>弄来给大家玩玩</span>',
     },
   }
 }
